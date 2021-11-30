@@ -1,0 +1,2 @@
+# Odin-projects
+This project will do its best to give an introduction to a cuisune called Hotpot, highly enjoyed all across China. People in China spend hours at restaurants specifically made for "Hotpot". Vegetables and meats of all kind are dropped into a boiling hot "pot" of deep flavor and spices. The immediately cooked and spiced food is then mixed into one's own side dish varying degress of oil and hot Chinese pepper. Some prefer highly oiled dishes, some light with extra spice. Hot pot is highly customizable, and can cater to anybody's pallete. 
